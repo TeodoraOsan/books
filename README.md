@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## Git push all
+ - git add .
+ - git commit -m "message"
+ - git push origin main
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
